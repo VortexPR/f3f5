@@ -1,0 +1,86 @@
+#header yi {
+    left: 0
+}
+#header yi {
+    right: 0
+}
+#header yi {
+    margin: 0
+}
+#header yi {
+    width: 150px
+}
+#header yi {
+    padding-right: 0
+}
+#header yi span {
+    margin: 0
+}
+#header yi span {
+    -webkit-box-flex: 1;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto
+}
+#header yi span {
+    text-align: center
+}
+
+#header .buttons>yi {
+    margin-right: .75rem
+}
+
+#header yi {
+    height: 32px;
+    line-height: 32px
+}
+
+#header yi .mdi-home {
+    font-size: 17px
+}
+
+#header yi .mdi-content-copy {
+    font-size: 16px
+}
+
+#header yi span {
+    font-size: 13px;
+    font-weight: 800;
+    line-height: 16px
+}
+
+#header yi.is-copied {
+    pointer-events: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none
+}
+
+#header yi.is-copied+.tooltip {
+    visibility: visible;
+    --tw-translate-y: 0.375rem;
+    -webkit-transform: var(--tw-transform);
+    -ms-transform: var(--tw-transform);
+    transform: var(--tw-transform);
+    opacity: 1
+}
+
+yi {
+    --tw-bg-opacity: 1;
+    background-color: rgba(58, 58, 58, var(--tw-bg-opacity));
+    color: #ffffffb3;
+	 
+}
+
+yi:hover {
+    --tw-bg-opacity: 1;
+    background-color: rgba(64, 64, 64, var(--tw-bg-opacity));
+	 
+	 
+}
+
+yi:focus {
+    --tw-bg-opacity: 1;
+    background-color: rgba(64, 64, 64, var(--tw-bg-opacity));
+	 
+}
